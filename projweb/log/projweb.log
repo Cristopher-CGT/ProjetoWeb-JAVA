@@ -1,0 +1,61 @@
+2021-05-05 19:54:30,402 WARN org.springframework.web.servlet.PageNotFound -org.springframework.web.servlet.DispatcherServlet- No mapping for GET /projweb/listaEstado
+2021-05-05 19:56:35,895 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-05 19:56:35,928 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-05 19:56:35,928 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao executar um insert
+2021-05-05 19:56:35,929 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException
+2021-05-09 15:30:28,526 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-09 15:30:28,552 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-09 15:30:28,553 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao selecionar todos os estados
+2021-05-09 15:30:28,554 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 08:59:17,267 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 08:59:17,293 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 08:59:17,294 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro de inclusão
+2021-05-10 08:59:17,294 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 08:59:45,291 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 08:59:45,292 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 08:59:45,294 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao selecionar todos os estados
+2021-05-10 08:59:45,294 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:12:08,394 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:12:08,433 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 09:12:08,434 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao selecionar todos os estados
+2021-05-10 09:12:08,435 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:12:42,254 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:12:42,255 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 09:12:42,256 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao selecionar todos os estados
+2021-05-10 09:12:42,256 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:13:15,080 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:13:15,080 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 09:13:15,081 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro de inclusão
+2021-05-10 09:13:15,081 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:19:57,716 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:19:57,745 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 09:19:57,745 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro de inclusão
+2021-05-10 09:19:57,745 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:28:28,766 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:28:28,799 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 09:28:28,800 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro de inclusão
+2021-05-10 09:28:28,801 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:28:40,357 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:28:40,357 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 09:28:40,358 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro de inclusão
+2021-05-10 09:28:40,358 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:29:03,187 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:29:03,217 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 09:29:03,218 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro de inclusão
+2021-05-10 09:29:03,218 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:29:11,244 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:29:11,245 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 09:29:11,250 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao selecionar todos os estados
+2021-05-10 09:29:11,250 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:29:24,746 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:29:24,746 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Access denied for user 'root'@'localhost' (using password: YES))
+2021-05-10 09:29:24,755 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao selecionar todos os estados
+2021-05-10 09:29:24,756 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:33:32,032 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:33:32,060 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Unknown database 'projweb')
+2021-05-10 09:33:32,060 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro de inclusão
+2021-05-10 09:33:32,061 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao
+2021-05-10 09:34:07,740 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao obter a conexao
+2021-05-10 09:34:07,740 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Unknown database 'projweb')
+2021-05-10 09:34:07,747 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- Erro ao selecionar todos os estados
+2021-05-10 09:34:07,747 ERROR br.com.stackx.projweb.logger.StackXLogger -br.com.stackx.projweb.logger.StackXLogger- br.com.stackx.projweb.exception.StackXException: Erro ao obter a conexao

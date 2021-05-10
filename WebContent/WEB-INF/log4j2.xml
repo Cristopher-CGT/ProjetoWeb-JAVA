@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" strict="true">
+		<!-- status = {TRACE, INFO, DEBUG, WARN, ERROR} -->
+	<Properties>
+		<Property name="filename">c:/projweb/log/projweb.log</Property>
+	</Properties>
+	<Appenders>
+		<Appender name="Console" target="SYSTEM_OUT" type="Console">
+			<Layout type="PatternLayout">
+				<Pattern>%d{HH:mm:ss.SSS} - %-5level %logger - %msg%n</Pattern>
+			</Layout>
+		</Appender>
+		<Appender name="FileAppender" type="File" immediateFlush="true" append="true"
+		 fileName="${filename}">
+			<Layout type="PatternLayout">
+				<Pattern>%d %p %logger -%C- %m%n</Pattern>
+			</Layout>
+		</Appender>
+	</Appenders>
+	<Loggers>
+		<Root level="WARN">
+			<AppenderRef level="WARN" ref="Console"/>
+			<AppenderRef level="WARN" ref="FileAppender"/>
+		</Root>
+	</Loggers>
+</Configuration>
+
